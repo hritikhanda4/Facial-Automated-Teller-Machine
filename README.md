@@ -22,9 +22,9 @@ Facial Automated Teller Machine (ATM) is a enchanced version of ATM machines whi
 
 <h3>Some screenshots:</h3>
 <h5>Main Panel</h5>
-<img src="screenshots/1.jpg"/>
+<img src="screenshots/1.JPG"/>
 <h5>Admin Panel</h5>
-<img src="screenshots/2.jpg"/>
+<img src="screenshots/2.JPG"/>
 
 
 <h6>For full working and info : <a href="https://github.com/hritikhanda4/Facial-Automated-Teller-Machine-ATM-/screenshots/video.mp4">Refer to Video by clicking here</a></h6>
